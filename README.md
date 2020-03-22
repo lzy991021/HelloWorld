@@ -1,2 +1,2 @@
 # HelloWorld
-The code in my collage study.
+A demo project created in github studying.
